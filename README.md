@@ -1,13 +1,13 @@
 # cc_azprune
 
-[![Release](https://img.shields.io/github/v/release/CenterConsultingInc/cc_azprune)](https://github.com/CenterConsultingInc/cc_azprune/releases/latest)
+[![Release](https://img.shields.io/github/v/release/thefrederiksen/cc_azprune)](https://github.com/thefrederiksen/cc_azprune/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Azure Orphaned Resource Finder - A desktop app to identify unused Azure resources.
 
 ## Download
 
-Download the latest Windows executable from the [Releases](https://github.com/CenterConsultingInc/cc_azprune/releases/latest) page.
+Download the latest Windows executable from the [Releases](https://github.com/thefrederiksen/cc_azprune/releases/latest) page.
 
 **Requirements:**
 - Windows 10/11 (64-bit)
@@ -38,7 +38,7 @@ For developers who want to run from source or contribute:
 
 ```bash
 # Clone the repository
-git clone https://github.com/CenterConsultingInc/cc_azprune.git
+git clone https://github.com/thefrederiksen/cc_azprune.git
 cd cc_azprune
 
 # Install in development mode

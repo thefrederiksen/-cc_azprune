@@ -46,9 +46,9 @@ cc_azprune = "cc_azprune.app:main"
 cc_azprune-gui = "cc_azprune.app:main"
 
 [project.urls]
-Homepage = "https://github.com/CenterConsultingInc/cc_azprune"
-Repository = "https://github.com/CenterConsultingInc/cc_azprune"
-Issues = "https://github.com/CenterConsultingInc/cc_azprune/issues"
+Homepage = "https://github.com/thefrederiksen/cc_azprune"
+Repository = "https://github.com/thefrederiksen/cc_azprune"
+Issues = "https://github.com/thefrederiksen/cc_azprune/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/cc_azprune"]
