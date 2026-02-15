@@ -5,6 +5,8 @@
 
 Azure Orphaned Resource Finder - A desktop app to identify unused Azure resources.
 
+![cc_azprune screenshot](docs/screenshot.png)
+
 ## Download
 
 Download the latest Windows executable from the [Releases](https://github.com/thefrederiksen/cc_azprune/releases/latest) page.
